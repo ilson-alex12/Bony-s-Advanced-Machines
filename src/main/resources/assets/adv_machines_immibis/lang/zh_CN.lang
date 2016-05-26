@@ -1,0 +1,26 @@
+tile.advmachine.macerator.name=旋转磨粉机
+tile.advmachine.compressor.name=奇点压缩机
+tile.advmachine.extractor.name=离心提取机
+tile.advmachine.canner.name=真空灌装机
+tile.advmachine.washer.name=热能洗矿机
+tile.advmachine.recycler.name=压缩回收机
+tile.advmachine.extruder.name=热能挤压机
+tile.advmachine.roller.name=压力辊压机
+tile.advmachine.cutter.name=高压水剪切机
+tile.advmachine.arraycable.name=阵列电缆
+tile.advmachine.arraysolar.name=太阳能阵列
+tile.advmachine.arraywind.name=风车阵列
+tile.advmachine.arraywater.name=水车阵列
+tile.advmachine.arraycontroller.name=阵列控制器
+advmachine.arraycontroller.rclick01=---阵列控制器---
+advmachine.arraycontroller.rclickRR=刷新频率:每隔 %s ticks (检查 %s 块)
+advmachine.arraycontroller.rclickSP=%s 不受阻碍的太阳能电池板
+advmachine.arraycontroller.rclickWA=%s EU/t 从水车
+advmachine.arraycontroller.rclickWI=%s EU/t 从风车（现在）
+advmachine.arraycontroller.rclickCP=目前生产速度: %s EU/t
+item.advmachine.sharpplate.name=锐化铁板
+
+gui.advmachine.pressure=压力:\n%1$d\nGibbl
+gui.advmachine.speed=速度:\n%1$d\nRPM
+gui.advmachine.canner.speed=速度: %1$d cm/s
+gui.advmachine.temp=热量:\n%1$d%%
